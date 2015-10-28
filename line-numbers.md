@@ -6,7 +6,7 @@
 #### 6
 #### 7 Chris is my name, what's yours 
 #### 8
-#### 9
+#### 9 GitHub is awesome
 #### 10
 #### 11
 #### 12
