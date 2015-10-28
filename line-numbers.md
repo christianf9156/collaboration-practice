@@ -11,15 +11,21 @@
 
 #### 9 GitHub is really awesome
 
-#### 10
+#### 10 This line is taken. 
 
 
 
 #### 11 Doritios Tacos are amazingly good.
 
 #### 12
-#### 13 
+
+#### 13 Friday the 13th.
 #### 14
+
 #### 15 Fudge Ice Cream Sunday!
 
 #### 17 Where's Waldo ?
+
+
+#### 19 Fudge Ice Cream Sunday!
+
